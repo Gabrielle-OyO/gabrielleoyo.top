@@ -40,7 +40,7 @@
 			if( !$this->content && !class_exists('Links_Plugin')) {
 			    echo'
 				<div class="nodata">
-				    <img src="http://116.62.211.242//usr/themes/Akina/images/warn.png">
+				    <img src="https://blog.zixu.site/usr/themes/Akina/images/warn.png">
 				    <div class="nodataText">
 					    <p>没有相关的数据！</p>
 					    <p>请在后台编写友链html或者安装<a href="https://github.com/Zisbusy/Akina-for-Typecho/tree/master/%E5%8F%AF%E9%80%89%E6%8F%92%E4%BB%B6" target="_blank" rel="nofollow noopener noreferrer">插件</a>
