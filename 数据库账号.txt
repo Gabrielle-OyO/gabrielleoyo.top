@@ -1,0 +1,27 @@
+FTP账号资料
+
+用户：gabrielleoyo_top
+
+密码：D4CLefsiaKbZdffr
+
+数据库账号资料
+
+数据库名：gabrielleoyo_top
+
+用户：gabrielleoyo_top
+
+密码：KtDRKeBX6Lacwpa5
+typecho
+
+您的用户名是: admin
+您的密码是: jkjkjk
+
+Congratulations! Installed successfully!
+==================================================================
+外网面板地址: http://116.62.211.242:8888/707f8e9c
+内网面板地址: http://172.26.13.172:8888/707f8e9c
+username: hzaosywd
+password: 9f99b131
+If you cannot access the panel,
+release the following panel port [8888] in the security group
+若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口

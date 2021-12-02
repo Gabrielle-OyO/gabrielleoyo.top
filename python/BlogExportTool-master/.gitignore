@@ -1,0 +1,4 @@
+Source/BlogExport/bin
+Source/BlogExport/obj
+*.dat
+*.vs
