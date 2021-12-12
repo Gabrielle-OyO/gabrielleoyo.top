@@ -25,3 +25,62 @@ password: 9f99b131
 If you cannot access the panel,
 release the following panel port [8888] in the security group
 若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口
+==================================================================
+
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+外网面板地址: http://116.62.211.242:8888/929f6bb1
+内网面板地址: http://172.26.13.172:8888/929f6bb1
+username: sr8hysjc
+password: 820b24d9
+If you cannot access the panel,
+release the following panel port [8888] in the security group
+若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口
+==================================================================
+
+
+FTP账号资料
+
+用户：gabrielleoyo_top
+
+密码：mW252nTYeeixyeTd
+
+数据库账号资料
+
+数据库名：gabrielleoyo_top
+
+用户：gabrielleoyo_top
+
+密码：XAk8bLhCibKj8jpE
+
+安装成功!
+您的用户名是: admin
+您的密码是: 4b72c4
+
+==================================================================
+
+==================================================================
+
+
+
+服务器
+
+FTP账号资料
+
+用户：116_62_211_242
+
+密码：yiKNZhDzjXAnRsyc
+
+数据库账号资料
+
+数据库名：116_62_211_242
+
+用户：116_62_211_242
+
+密码：Djxrc7krHxZx77xP
+
+
+安装成功!
+您的用户名是: admin
+您的密码是: jkjkjk
